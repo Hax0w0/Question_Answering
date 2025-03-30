@@ -1,3 +1,14 @@
+# Class: Northwestern CS 461 Winter 2025
+# ---------------------------------------
+
+# Professor: David Demeter
+# ---------------------------------------
+
+# Contributers:
+# ---------------------------------------
+#   Raymond Gu
+#   Maanvi Sarwadi
+
 import json
 import torch
 from torch import tensor
