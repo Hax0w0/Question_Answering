@@ -1,5 +1,5 @@
-# Question Answering (Generative vs Classification) README
- **Project**: Question Answering<br>
+# Question Answering README
+ **Project**: Question Answering (Generative vs Classification)<br>
  **Class**: Northwestern CS 461 Winter 2025<br>
  **Contributers**: Raymond Gu, Maanvi Sarwadi
 
